@@ -1,0 +1,1 @@
+# ar-barcode-project-assets
